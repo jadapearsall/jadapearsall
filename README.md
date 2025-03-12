@@ -16,3 +16,5 @@
 
 
 [linkedin]: https://linkedin.com/in/jada-pearsall-msw
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jada-pearsall-msw-661a96196" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jada-pearsall-msw-661a96196?trk=profile-badge">Jada Pearsall, MSW</a></div>
+              
